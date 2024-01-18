@@ -8,6 +8,7 @@ TagManager:
   - Trail
   - Ground
   - Record
+  - Shape
   layers:
   - Default
   - TransparentFX
@@ -19,7 +20,7 @@ TagManager:
   - HouseModel
   - Wrist
   - Record
-  - 
+  - Shape
   - 
   - 
   - 
